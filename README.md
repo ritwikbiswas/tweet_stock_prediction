@@ -1,4 +1,4 @@
-# Predicting Stock Performance using Twitter Data 🐦
+# Predicting Stock Performance using Twitter Data 📈
 A case study in stock close delta prediction based on twitter data
 
 ## Abstract
